@@ -1,3 +1,8 @@
+# THIS CODE IS NO LONGER BEING DEVELOPED/SUPPORTED BY THE AUTHOR
+I have not used homebridge for a few years now.
+
+
+
 # homebridge-octoprint
 
 Plugin to support [OctoPrint](https://octopi.octoprint.org) 3D printer control via the [HomeBridge Platform](https://github.com/nfarina/homebridge).
